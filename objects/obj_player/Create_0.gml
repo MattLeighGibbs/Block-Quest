@@ -2,3 +2,4 @@
 // You can write your code in this editor
 
 key_count = 0
+hp = 5

@@ -18,11 +18,16 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_enemy","order":1,"path":"sprites/spr_enemy/spr_enemy.yy",},
-    {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":3,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"obj_key","order":2,"path":"objects/obj_key/obj_key.yy",},
+    {"name":"obj_goal","order":4,"path":"objects/obj_goal/obj_goal.yy",},
+    {"name":"obj_enemy","order":6,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"obj_collision","order":1,"path":"objects/obj_collision/obj_collision.yy",},
+    {"name":"obj_bullet","order":5,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"Sprite7","order":16,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"spr_collision","order":2,"path":"sprites/spr_collision/spr_collision.yy",},
+    {"name":"obj_locked_door","order":3,"path":"objects/obj_locked_door/obj_locked_door.yy",},
     {"name":"Sprite16","order":2,"path":"sprites/Sprite16/Sprite16.yy",},
   ],
 }
